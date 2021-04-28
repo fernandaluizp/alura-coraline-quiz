@@ -1,45 +1,47 @@
 {
   "bg": "https://images3.alphacoders.com/656/65609.jpg",
-  "title": "Quiz JavaScript #AluraQuiz",
-  "description": "Um quiz rápido sobre o mundo do JavaScript",
+  "title": "Coraline",
+  "description": "Um quiz rápido sobre o filme e livro de Coraline",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-      "title": "Qual a diferença entre = , == e === ?",
+      "image": "https://media.giphy.com/media/PcGMeFVvmCgIkxpIwz/giphy.gif",
+      "title": "Quem é o criador do livro que deu origem ao filme Coraline",
       "description": "Pergunta fácil em!",
       "answer": 1,
       "alternatives": [
-        "São a mesma coisa",
-        "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
+        "JK. Rowling",
+        "Neil Gaiman",
+        "C. S. Lewis"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-      "title": "Que tipos de dados são suportados em JavaScript?",
-      "description": "E agora? Você sabe?",
+      "image": "https://media.giphy.com/media/h4noHFc8QfmJxVZIMN/giphy.gif",
+      "title": "Em que ano o filme foi lançado?",
       "answer": 0,
       "alternatives": [
-        "Number, String, Undefined, Null e Bool.",
-        "Int, String, Undefined, Null e Bool."
+        "2009",
+        "2008",
+        "2010"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a diferença de window e global?",
+      "image": "https://media.giphy.com/media/2oi8VjpB3recadAiTQ/giphy.gif",
+      "title": "Qual o nome da criatura tenta trancar Coraline no outro mundo",
+      "description": "O nome real!",
       "answer": 1,
       "alternatives": [
-        "São a mesma coisa",
-        "window é o escopo global no browser, e global no node"
+        "Outra mãe",
+        "Beldam",
+        "Redrum"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
-      "answer": 1,
+      "image": "https://media.giphy.com/media/AbuQeC846WKOs/giphy.gif",
+      "title": "O livro foi publicado em 2002",
+      "answer": 0,
       "alternatives": [
-        "JSONHttpRequest",
-        "XMLHttpRequest",
-        "fetch"
+        "Verdadeiro",
+        "Falso"
       ]
     }
   ],
